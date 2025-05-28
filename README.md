@@ -11,7 +11,7 @@
 **Key Concepts:**  
 - **Vectors & Matrices:** Represent data points (e.g., feature vectors) and transformations (e.g., weight matrices in neural networks).  
 - **Eigenvalues/Eigenvectors:** Identify directions of maximum variance in PCA.  
-  - *Formula:* $ A\mathbf{v} = \lambda \mathbf{v} $, where $ \lambda $ is an eigenvalue and $ \mathbf{v} $ is an eigenvector.  
+  - *Formula:* $ A \mathbf{v} = \lambda \mathbf{v} $, where $ \lambda $ is an eigenvalue and $ \mathbf{v} $ is an eigenvector.  
 - **Singular Value Decomposition (SVD):** Factorizes a matrix into $ U\Sigma V^T $, used for noise reduction.  
 - **Norms:** Measure vector magnitudes (e.g., $ L_2 $-norm for regularization).  
 
